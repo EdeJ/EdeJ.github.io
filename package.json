@@ -2,7 +2,7 @@
   "name": "edj.github.io",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://edej.github.io/edej",
+  "homepage": "https://edej.github.io/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
